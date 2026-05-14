@@ -1,5 +1,15 @@
 # Proyecto de Alta Disponibilidad, Seguridad y Monitoreo de Infraestructura
 
+---
+## Miembros del equipo
+- Romero Hernández Juan José - 0324108222 - [CV](./CVs/Romero_Hernandez_Juan_Jose_English.pdf)
+- 
+- 
+- 
+- 
+
+---
+
 ## 1. Alta disponibilidad por hardware, almacenamiento, DNS, routers y switches
 
 ### 1.1 Hardware, almacenamiento y DNS
@@ -104,8 +114,6 @@
 - Se implementarán backups locales y en la nube.
 
 - Se definirán métricas de recuperación como RTO y RPO.
-
-> **Nota:** investigar el significado y aplicación de RTO y RPO dentro del proyecto.
 
 - Se realizarán pruebas periódicas de restauración para validar que los respaldos funcionen correctamente y no se corrompan ante incidentes como malware o fallos del sistema.
 
