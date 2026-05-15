@@ -6,7 +6,7 @@
 - Aguilar Garcia David Gerardo	 - 0324108223 - [CV](./CVs/Aguilar_Garcia_David_Gerardo_English.pdf)
 - Días Benites Jorge Enrique	 - 
 - Vargas Juarez Rafael Alejandro - 
-- Becerra Garcia Angel Daniel	 - 0324108208 - [CV](./CVs/Becerra Garcia Angel Daniel_English.pdf)
+- Becerra Garcia Angel Daniel	 - 0324108208 - [CV](./CVs/Becerra_Garcia_Angel_Daniel_English.pdf)
 
 ---
 
