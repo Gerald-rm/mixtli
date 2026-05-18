@@ -1,4 +1,5 @@
-# Proyecto de Alta Disponibilidad, Seguridad y Monitoreo de Infraestructura
+# Mixtli
+## Proyecto de Alta Disponibilidad, Seguridad y Monitoreo de Infraestructura
 
 ---
 ## Miembros del equipo
