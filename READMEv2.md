@@ -1,4 +1,3 @@
-  GNU nano 8.4                                          README.md                                                   
 <p align="center">
   <img src="./sources/Logo.png" alt="Logo MIXTLI" width="250">
 </p>
